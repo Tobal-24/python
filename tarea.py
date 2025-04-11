@@ -1,4 +1,6 @@
-Nombre = input ("Hola dime tu nombre: ")
-edad = int (input("Ingresa tu edad: "))
+# Pedimos el nombre y la edad
+nombre = input("¿Cuál es tu nombre? ")
+edad = input("¿Cuántos años tienes? ")
 
-print (f"Hola dime tu nombre") (int "ingresa tu edad") 
+# Mostramos los datos
+print(f"Hola, {nombre}. Tienes {edad} años.")
